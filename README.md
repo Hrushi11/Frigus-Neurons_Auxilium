@@ -1,4 +1,4 @@
-# Frigus-Neurons_Auxilium
+# Auxilium
 
 This repository is our submission to the Code Odyssey hackathon happening in Feb 2022. 
 
