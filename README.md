@@ -2,7 +2,7 @@
 
 This repository is our submission to the Code Odyssey hackathon happening in Feb 2022. 
 
-Model Training - [ASL-Recognition](https://github.com/Hrushi11/Frigus-Neurons_Auxilium/blob/main/American_Sign_Language_Recognition.ipynb)
+Trained Deeplearning Model - [ASL-Recognition](https://github.com/Hrushi11/Frigus-Neurons_Auxilium/blob/main/American_Sign_Language_Recognition.ipynb)
 
 Communication is a very important skill. It helps to exchange thoughts, share experiences and learn new things. Looking at today's 
 fast moving world networking and communication becomes very essential.
